@@ -1,4 +1,4 @@
-# 📊 Excel Sales Analysis Dashboard
+# 📊 Blinkit Grocery Data Analysis
 
 ## 📌 Project Overview
 
